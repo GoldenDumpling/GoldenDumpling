@@ -1,15 +1,18 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=210&section=header&text=Ziggurat&fontSize=50&fontColor=000" />
 
 
-
+<div align="center">
+ 
 # Ziggurat
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FGoldenDumpling&count_bg=%233582C6&title_bg=%23867A7A&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
+</div>
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ziggurat)](https://solved.ac/ziggurat/)
+<div align="center">
 
 # 📚 Tech Stacks
 ### Platforms & Languages
+
 ![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F.svg?&style=for-the-badge&logo=Spring&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)
@@ -26,5 +29,20 @@
 ![Eclipse IDE](https://img.shields.io/badge/Eclipse%20IDE-2C2255.svg?&style=for-the-badge&logo=Eclipse%20IDE&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
 
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ziggurat)](https://solved.ac/ziggurat/)
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GoldenDumpling&layout=compact">
+<br />
+<br />  
+<img src="https://github-readme-stats.vercel.app/api?username=GoldenDumpling&show_icons=true">
+<br />
+<br />
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FGoldenDumpling&count_bg=%233582C6&title_bg=%23867A7A&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
+
+
+</div>
 
  
