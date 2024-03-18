@@ -26,9 +26,7 @@
 <br />
 <br />  
 <br />
-<br />  
-<br />
-<br />  
+
 
 # 📊Stats
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ziggurat)](https://solved.ac/ziggurat/)
