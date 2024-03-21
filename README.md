@@ -4,6 +4,25 @@
 
 <div align="center">
 
+# 👋 안녕하세요, 신입 Fullstack 개발자 김태영입니다!
+
+## 🌱 배움을 추구하는 개발자
+저는 호기심 많고 배움에 대한 열정이 가득한 신입 개발자입니다. 새로운 기술을 습득하고 이를 실제 문제 해결에 적용해보는 과정에서 큰 즐거움을 느낍니다.
+
+## 💡 지속적인 성장을 위한 노력
+프로젝트를 통해 실습하고, 기술 서적을 읽거나 온라인 강의를 들으며 지식을 확장하고 있습니다. 또한, 노션에 학습 내용을 체계적으로 정리하여 지식을 체계화하고 있습니다.
+
+## 🌟 개인적 특성
+적극적이고 열정적인 성격으로 새로운 도전을 두려워하지 않습니다. 팀에서도 활발하게 의견을 나누며 협업의 중요성을 잘 이해하고 있습니다.
+
+## 📫 연락처
+이메일 : `rxd2345@gmail.com`
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
 # 📚 Tech Stacks
 ### Platforms & Languages
 
@@ -40,8 +59,7 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FZiggurat23&count_bg=%233582C6&title_bg=%23867A7A&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-
-
 </div>
 
  
+
