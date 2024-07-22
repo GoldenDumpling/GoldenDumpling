@@ -1,8 +1,3 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=210&section=header&text=Ziggurat&fontSize=50&fontColor=000" />
-
-
-
-<div align="center">
 
 
 ## 📫 연락처
